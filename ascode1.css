@@ -1,0 +1,24 @@
+
+body {
+    text-align:center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-size:100% 100%;
+    background-color:gold;
+    color: white;
+    border: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman',;
+}
+
+div.home {
+height: 150px;
+text-align: right;
+background: transparent;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+    text-decoration-color: white;
+}

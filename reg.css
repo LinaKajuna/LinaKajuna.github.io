@@ -1,0 +1,24 @@
+body {
+    align-content: center;
+    background-color: gold;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    margin: 0%;
+    padding: 12px;
+    background:fixed;
+    color: black;
+}
+.contact:hover {
+    background-color: rgb(10, 156, 10);
+}
+.person {
+    margin: 0%;
+    padding: 12px;
+    background: scroll;
+    border: 0%;
+    color: black;
+}
